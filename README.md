@@ -4,7 +4,7 @@
 Welcome to the past or Welcome to this tragic tale that becomes an eventful story of a young knight. 
 
 
-## Summary of the Project: 
+# Summary of the Project: 
 
 The project follows a Knight named Randoul who travels to find the people who attacked his village. This takes him on a vast journey across his planet of Araxies. He fights many enemies along the way and goes through many different cycles of the planet’s climate. 
 
