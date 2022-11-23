@@ -21,13 +21,13 @@ We want people to look and explore what our project is all about by scanning the
 
 ## Part-2: Short Story:
 
-Link [here] (https://github.com/Patty016/IASC-3P04/blob/main/The%20Tragedy%20of%20the%20Staggered%20Village.pdf). 
+Link [here](https://github.com/Patty016/IASC-3P04/blob/main/The%20Tragedy%20of%20the%20Staggered%20Village.pdf). 
 
 ## Part-3: Project Lore:
 
-Link [here] (https://github.com/Patty016/IASC-3P04/blob/main/IASC%203P04%20Part%203_%20Project%20Lore.pdf). 
+Link [here](https://github.com/Patty016/IASC-3P04/blob/main/IASC%203P04%20Part%203_%20Project%20Lore.pdf). 
 
 
 ## Part-4: Sketches:
 
-Link [here] (https://github.com/Patty016/IASC-3P04/blob/main/IASC%203P04%20Part%204_%20Sketches.pdf).
+Link [here](https://github.com/Patty016/IASC-3P04/blob/main/IASC%203P04%20Part%204_%20Sketches.pdf).
