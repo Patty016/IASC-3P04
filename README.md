@@ -17,7 +17,7 @@ We want people to look and explore what our project is all about by scanning the
 
 ## Part-1: World Building:
 
-Link [here[(
+Link [here](https://github.com/Patty016/IASC-3P04/blob/main/Part_1.pdf). 
 
 ## Part-2: Short Story:
 
