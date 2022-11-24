@@ -34,4 +34,4 @@ Link [here](https://github.com/Patty016/IASC-3P04/blob/main/IASC%203P04%20Part%2
 
 ## Final Project Rpoposal: 
 
-Link [here]().
+Link [here](https://github.com/Patty016/IASC-3P04/blob/main/Final%20Project%20Proposals-Template.pdf).
