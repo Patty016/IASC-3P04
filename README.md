@@ -31,3 +31,7 @@ Link [here](https://github.com/Patty016/IASC-3P04/blob/main/IASC%203P04%20Part%2
 ## Part-4: Sketches:
 
 Link [here](https://github.com/Patty016/IASC-3P04/blob/main/IASC%203P04%20Part%204_%20Sketches.pdf).
+
+## Final Project Rpoposal: 
+
+Link [here]().
